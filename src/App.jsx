@@ -1,14 +1,15 @@
 
 // Bootstrap
-import Button from 'react-bootstrap/Button'
-import 'bootstrap/dist/css/bootstrap.min.css'
+
+// Components 
+
 
 
 function App() {
 
   return (
     <>
-      <h1>Hello, world!</h1>
+      Hello World!
     </>
   )
 }
